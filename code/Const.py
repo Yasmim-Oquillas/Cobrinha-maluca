@@ -1,0 +1,12 @@
+#C
+COLOR_ORANGE = (255, 128, 0)
+COLOR_WHITE = (255, 255, 255)
+
+#M
+MENU_OPTION = ('INICIAR',
+               'PONTUAÇÃO',
+               'SAIR')
+
+#W
+WIN_WIDTH = 700
+WIN_HEIGHT = 480
