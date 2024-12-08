@@ -7,7 +7,6 @@ COLOR_RED = (193, 2, 0)
 
 #M
 MENU_OPTION = ('INICIAR',
-               'PONTUAÇÃO',
                'SAIR')
 
 #W

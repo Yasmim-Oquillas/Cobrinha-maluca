@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e86d6ed-c060-4ca2-8f11-37c0ca30429c" name="Changes" comment="Start screen creation&#10;Menu screen update">
-      <change afterPath="$PROJECT_DIR$/asset/Fim_jogo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Pontos.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6e86d6ed-c060-4ca2-8f11-37c0ca30429c" name="Changes" comment="Start screen update">
       <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Start.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,23 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733509643287</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start screen update">
+      <option name="closed" value="true" />
+      <created>1733638140061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733638140061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Menu screen creation" />
     <MESSAGE value="Start screen creation&#10;Menu screen update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start screen creation&#10;Menu screen update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/code/Start.py</url>
-          <line>124</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Start screen update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start screen update" />
   </component>
 </project>

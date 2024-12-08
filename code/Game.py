@@ -21,8 +21,6 @@ class Game:
                 start = Start(self.window, 'Start')
                 start_return = start.run()
             elif menu_return == MENU_OPTION[1]:
-                pass
-            elif menu_return == MENU_OPTION[2]:
                 pg.quit()
                 quit()
             else:
