@@ -5,7 +5,6 @@ from pygame.examples.playmus import Window
 from pygame.locals import *
 from pygame.font import Font
 from code.Const import WIN_WIDTH, WIN_HEIGHT, COLOR_WHITE, COLOR_BLUE, COLOR_GREEN, COLOR_LIGHTGREEN, COLOR_RED
-from code.Entity import Entity
 import pygame as pg
 from pygame import Surface, Rect
 from random import randint #sortear posições diferentes
