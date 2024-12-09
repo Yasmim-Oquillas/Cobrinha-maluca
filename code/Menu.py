@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import sys
+
 import pygame.image
 import pygame as pg
 from pygame import Surface, Rect
@@ -34,8 +36,7 @@ class Menu:
             # Check for all events
             for event in pg.event.get():
                 if event.type == pg.QUIT:
-                    pg.quit()  # close window
-                    quit()  # end pygame
+                    sys.exit()  # end window
                 if event.type == pg.KEYDOWN:
                     if event.key == pg.K_DOWN: #DOWN KEY
                         if menu_option < len(MENU_OPTION) - 1:

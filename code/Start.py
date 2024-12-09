@@ -1,3 +1,4 @@
+import sys
 from ctypes import windll
 
 from pygame.examples.go_over_there import clock
@@ -68,8 +69,7 @@ class Start:
             self.menu_text(30, f'Pontos: {pontos}', COLOR_BLUE, (600, 30))
             for event in pg.event.get():
                 if event.type == pg.QUIT:
-                    pg.quit()  # close window
-                    quit()  # end pygame
+                    sys.exit()  # close window
 
                 if event.type == pg.KEYDOWN:
                     if event.key == K_LEFT:

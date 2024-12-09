@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e86d6ed-c060-4ca2-8f11-37c0ca30429c" name="Changes" comment="Start screen update">
-      <change afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
+    <list default="true" id="6e86d6ed-c060-4ca2-8f11-37c0ca30429c" name="Changes" comment="Add executable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Start.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733683404527</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add executable">
+      <option name="closed" value="true" />
+      <created>1733758289554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733758289554</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +191,7 @@
     <MESSAGE value="Start screen creation&#10;Menu screen update" />
     <MESSAGE value="Game screen update" />
     <MESSAGE value="Start screen update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start screen update" />
+    <MESSAGE value="Add executable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add executable" />
   </component>
 </project>
